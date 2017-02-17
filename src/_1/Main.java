@@ -12,5 +12,6 @@ public class Main {
             if (i % 2 == 0) System.out.println(" i  = " + i);
 
         }
+        int  j = 9;
     }
 }
